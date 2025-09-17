@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Amanda Oliveira",
+    "idade": 16,
+    "posicao": "atacante",
+    "historico_peneiras": [
+      {
+        "peneira_nome": "Peneira Talento Jovem",
+        "data": "10/08/2025",
+        "status": "aguardando avaliação"
+      }
+    ]
+  },
+  {
+    "nome": "Bianca Ferreira",
+    "idade": 14,
+    "posicao": "meio-campista",
+    "historico_peneiras": []
+  },
+  {
+    "nome": "Carla Santos",
+    "idade": 17,
+    "posicao": "zagueira",
+    "historico_peneiras": [
+      {
+        "peneira_nome": "Avaliação Sub-17",
+        "data": "15/07/2025",
+        "status": "encaminhada"
+      }
+    ]
+  },
+  {
+    "nome": "Daniela Lima",
+    "idade": 15,
+    "posicao": "goleira",
+    "historico_peneiras": []
+  },
+  {
+    "nome": "Erika Costa",
+    "idade": 13,
+    "posicao": "lateral",
+    "historico_peneiras": []
+  }
+]

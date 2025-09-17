@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Peneira Talento Jovem",
+    "local": "São Paulo",
+    "tipo": "peneira",
+    "requisitos": "Idade 15-18",
+    "link": "N/A"
+  },
+  {
+    "nome": "Escolinha Craques do Futuro",
+    "local": "Rio de Janeiro",
+    "tipo": "escolinha",
+    "requisitos": "Idade 10-14",
+    "link": "N/A"
+  },
+  {
+    "nome": "Projeto Social Gol de Letra",
+    "local": "Belo Horizonte",
+    "tipo": "projeto social",
+    "requisitos": "Todas as idades",
+    "link": "N/A"
+  },
+  {
+    "nome": "Peneira Oficial do Clube São paulo",
+    "local": "Porto Alegre",
+    "tipo": "peneira",
+    "requisitos": "Idade 16-20, posição atacante ou goleira",
+    "link": "N/A"
+  },
+  {
+    "nome": "Treinamento Gratuito de Habilidades",
+    "local": "Curitiba",
+    "tipo": "evento",
+    "requisitos": "Idade 12-16",
+    "link": "N/A"
+  }
+]
